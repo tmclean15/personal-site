@@ -36,7 +36,7 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful starter",
+    title: "Taylor McLean - Tech Blog",
   },
   pathPrefix: "/gatsby-contentful-starter",
   plugins: [
