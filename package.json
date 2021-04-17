@@ -29,9 +29,6 @@
   "scripts": {
     "dev": "gatsby develop",
     "build": "gatsby build",
-    "heroku-postbuild": "gatsby build",
-    "postinstall": "node ./bin/hello.js",
-    "setup": "node ./bin/setup.js",
     "netlify:login": "netlify login",
     "netlify:deploy": "netlify deploy -d public -p"
   }
