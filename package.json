@@ -30,6 +30,7 @@
     "dev": "gatsby develop",
     "build": "gatsby build",
     "netlify:login": "netlify login",
-    "netlify:deploy": "netlify deploy -d public -p"
+    "netlify:deploy": "netlify deploy -d public -p",
+    "refresh-content": "curl -X POST http://localhost:8000/__refresh"
   }
 }

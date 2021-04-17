@@ -65,16 +65,6 @@
                     "omitted": false
                 },
                 {
-                    "id": "company",
-                    "name": "Company",
-                    "type": "Symbol",
-                    "localized": false,
-                    "required": true,
-                    "validations": [],
-                    "disabled": false,
-                    "omitted": false
-                },
-                {
                     "id": "shortBio",
                     "name": "Short Bio",
                     "type": "Text",
@@ -97,16 +87,6 @@
                 {
                     "id": "phone",
                     "name": "Phone",
-                    "type": "Symbol",
-                    "localized": false,
-                    "required": false,
-                    "validations": [],
-                    "disabled": false,
-                    "omitted": false
-                },
-                {
-                    "id": "facebook",
-                    "name": "Facebook",
                     "type": "Symbol",
                     "localized": false,
                     "required": false,
